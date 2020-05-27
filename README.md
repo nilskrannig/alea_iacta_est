@@ -1,6 +1,6 @@
 # nilskrannig
 
-A new application to roll the dice.
+A new proof of concept application to roll the dice.
 
 This project is a simple Flutter application with one page and local state management.
 
