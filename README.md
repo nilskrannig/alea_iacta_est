@@ -6,5 +6,7 @@ This project is a simple Flutter application with one page and local state manag
 
 Made with love in Lübeck, Germany.
 
+---
+
 Attributions:
 <a href="https://www.vecteezy.com/free-vector/gamble">Gamble Vectors by Vecteezy</a>
