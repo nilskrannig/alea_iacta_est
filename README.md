@@ -8,5 +8,9 @@ Made with love in Lübeck, Germany.
 
 ---
 
+<a href="https://nilskrannig.com/privacy-policy-alea-iacta-est.html">privacy policy</a>
+
+---
+
 Attributions:
 <a href="https://www.vecteezy.com/free-vector/gamble">Gamble Vectors by Vecteezy</a>
